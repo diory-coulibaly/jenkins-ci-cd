@@ -52,10 +52,10 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
-				</configuration>K
+				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>jenkinsCiCdDC</finalName>
+		<finalName>jenkinsCiCd</finalName>
 	</build>
 
 </project>
